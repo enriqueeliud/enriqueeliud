@@ -11,6 +11,7 @@ Get to know me:
 - 👯 I’m looking to collaborate on Full-stack AI-driven apps
 - 📫 How to reach me: eliudmaina064@gmail.com
 
+<img align="right" alt="GIF" width="300px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -24,7 +25,7 @@ Get to know me:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-<img align="right" alt="GIF" width="150px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
+
 
 ### Connect with me:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/javas.cript_lover/) 
