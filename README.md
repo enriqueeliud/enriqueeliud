@@ -4,6 +4,14 @@
 
 My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. 
 
+
+Get to know me:
+- 🔭 I’m currently working on my startup MERN STACK DEVELOPMENT
+- 🌱 I’m currently learning advanced React & Nodejs
+- 👯 I’m looking to collaborate on Full-stack AI-driven apps
+- 📫 How to reach me: eliudmaina064@gmail.com
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -11,16 +19,19 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 ### Connect with me:
-
- 
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/javas.cript_lover/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/eliud.phynhas)
 [![Github URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://www.github.com/enriqueeliud)
 [![Twitter URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=twitter&logoColor=ffffff)](https://www.instagram.com/eLI_THE_CODER/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/eliudmaina/) 
-[![Gmail Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=gmail&logoColor=ffffff)](https:www.gmail.com/eliudmaina064@gmail.com) 
 <br />
 
 ## &#x1f4c8; GitHub Stats
