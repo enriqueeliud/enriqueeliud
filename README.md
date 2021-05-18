@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
@@ -17,19 +17,19 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/enriqueeliud/enriqueeliud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueeliud&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/enriqueeliud/enriqueeliud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriqueeliud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/enriqueeliud/portfolio-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=portfolio-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/Weblitter-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/enriqueeliud/Weblitter-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=Weblitter-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
@@ -43,7 +43,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
