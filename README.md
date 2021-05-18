@@ -20,8 +20,6 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 [![Github Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.github.com/enriqueeliud)
 
 <br />
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -33,12 +31,6 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 </a>
   
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
