@@ -4,7 +4,7 @@
 
 My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. 
 
-<img align="right" alt="GIF" width="200px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
+
 Get to know me:
 - 🔭 I’m currently working on  MERN STACK DEVELOPMENT
 - 🌱 I’m currently learning advanced React & Nodejs
@@ -24,7 +24,7 @@ Get to know me:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-
+<img align="right" alt="GIF" width="150px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
 
 ### Connect with me:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/javas.cript_lover/) 
