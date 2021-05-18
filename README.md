@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/wave.gif" width="30px">
+# Hello, folks! 
 
 My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. 
 
@@ -12,6 +12,9 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
+## connect with me
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 ## &#x1f4c8; GitHub Stats
 
