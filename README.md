@@ -1,11 +1,8 @@
 
 
-[![Header](https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/readme_header.png "Header")](https://enriqueeliud.github.io/portfolio/)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/wave.gif" width="30px">
 
-My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
+My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -24,14 +21,7 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 <a href="https://github.com/enriqueeliud/enriqueeliud">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriqueeliud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="enriqueeliud's GitHub Stats" />
 </a>
-
-<a href="https://github.com/enriqueeliud/portfolio-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=portfolio-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/enriqueeliud/Weblitter-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=Weblitter-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  
 
 <!-- links to social media icons -->
 
