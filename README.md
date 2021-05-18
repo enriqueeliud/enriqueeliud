@@ -1,4 +1,4 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
 
 [![Header](https://raw.githubusercontent.com/enriqueeliud/enriqueeliud/master/readme_header.png "Header")](https://enriqueeliud.github.io/portfolio/)
 
@@ -12,6 +12,8 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -20,13 +22,12 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueeliud&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/enriqueeliud/enriqueeliud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriqueeliud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriqueeliud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="enriqueeliud's GitHub Stats" />
 </a>
 
 <a href="https://github.com/enriqueeliud/portfolio-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=portfolio-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/enriqueeliud/Weblitter-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enriqueeliud&repo=Weblitter-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
