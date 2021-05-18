@@ -15,12 +15,12 @@ My name is Eliud and I'm a fullstack with good knowledge of both front-end and b
 ### Connect with me:
 
  
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/javas.cript_lover/) <br />
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/eliud.phynhas)<br />
-[![Github URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://www.github.com/enriqueeliud)<br />
-[![Twitter URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=twitter&logoColor=ffffff)](https://www.instagram.com/eLI_THE_CODER/)<br />
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/javas.cript_lover/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/eliud.phynhas)
+[![Github URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)](https://www.github.com/enriqueeliud)
+[![Twitter URL](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=twitter&logoColor=ffffff)](https://www.instagram.com/eLI_THE_CODER/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/eliudmaina/) 
-
+[![Gmail Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=gmail&logoColor=ffffff)](eliudmaina064@gmail.com) 
 <br />
 
 ## &#x1f4c8; GitHub Stats
