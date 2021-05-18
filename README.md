@@ -4,7 +4,7 @@
 
 My name is Eliud and I'm a fullstack with good knowledge of both front-end and back-end techniques. 
 
-<img align="right" alt="GIF" width="300px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
+<img align="right" alt="GIF" width="200px" src="https://image.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg" />
 Get to know me:
 - 🔭 I’m currently working on  MERN STACK DEVELOPMENT
 - 🌱 I’m currently learning advanced React & Nodejs
